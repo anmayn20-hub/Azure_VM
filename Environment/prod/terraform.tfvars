@@ -7,8 +7,8 @@ rgs = {
     name     = "test-rg"
     location = "central india"
   }
-  rg3 = {
-    name     = "qa-rg"
+  rg3 = { 
+    name     = "qa-rg"                      #qa rg added
     location = "central india"
   }
 }
