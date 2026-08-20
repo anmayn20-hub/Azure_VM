@@ -7,6 +7,10 @@ rgs = {
     name     = "test-rg"
     location = "central india"
   }
+  rg3 = {
+    name     = "qa-rg"
+    location = "central india"
+  }
 }
 
 vnets = {
